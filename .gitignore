@@ -1,0 +1,101 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.ap_*
+*.aab
+*.hprof
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+android/.settings/
+android/.cxx/
+android/.externalNativeBuild/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework/
+ios/Flutter/engine/
+ios/Flutter/ephemeral/
+ios/.generated/
+ios/.dart_tool/
+ios/.idea/
+ios/.vscode/
+
+# VS Code
+.vscode/
+
+# Node.js (backend)
+node_modules/
+backend/node_modules/
+backend/.env
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+*.backup
+*.orig
+*.rej
+*.swo
+*.swn
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Others
+coverage/
+.env
+.env.*
+
+# Test outputs
+test/output/
+
+# JetBrains IDEs
+*.iml
+.idea/
+
+# Generated files
+*.g.dart
+*.pb.dart
+*.mocks.dart
