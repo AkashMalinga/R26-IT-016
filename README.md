@@ -288,7 +288,7 @@ The research follows ethical practices including:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repository-link.git
+git clone https://github.com/AkashMalinga/R26-IT-016.git
 ```
 
 2. Navigate to project directory
